@@ -10,7 +10,7 @@
  :nrepl        {:port 8777}
 
  :builds
- {:app {:target :browser
+ {:counter-app {:target :browser
         :output-dir "public/js/compiled"
         :asset-path "/js/compiled"
 
